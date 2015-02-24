@@ -1,0 +1,9 @@
+1. finish the remaining checks
+2. Read thresholds from configuration file
+3. remove code redundancy
+4. provision for external scripts. 
+5. Include verbose option
+6. chef recipe with attribute support.
+7. JMX 
+8. integrate with nagios plugins
+9.  
